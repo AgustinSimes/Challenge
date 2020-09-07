@@ -1,0 +1,36 @@
+[ 
+{
+    "concepto" : "Pedidos Ya",
+    "Monto" : "500",
+    "Fecha" : "24/08",
+    "Tipo" : "Egreso"
+},
+
+{
+    "concepto" : "Epec",
+    "Monto" : "1500",
+    "Fecha" : "4/09",
+    "Tipo" : "Egreso"
+} ,
+
+{
+    "concepto" : "Municipalidad",
+    "Monto" : "400",
+    "Fecha" : "24/07",
+    "Tipo" : "Egreso"
+} ,
+
+{
+    "concepto" : "Salario Mensual",
+    "Monto" : "15000",
+    "Fecha" : "02/09",
+    "Tipo" : "Ingreso"
+} ,
+
+{
+    "concepto" : "Supermercado",
+    "Monto" : "15000",
+    "Fecha" : "02/09",
+    "Tipo" : "Egreso"
+}
+]
